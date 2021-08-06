@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          deploy react App
+          change in app.js file 
           
         </a>
       </header>
